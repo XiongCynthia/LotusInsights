@@ -25,7 +25,7 @@ The below visuals are word clouds of all the lemmatized words from both datasets
 
 The Gensim library in Python is used to create topic models with the preprocessed text. Each chapter/verse is treated as a separate document.
 
-In our project, bigram counts are the number of times two words co-occur in a window of some length. For the chapter dataset, a bigram is counted if two words within the same chapter are separated by, at most, 19 other words, while for the verse dataset, a bigram is counted if two words co-occur within the same verse. The resulting bigram counts are then organized and stored into comma-separated values (CSV) files to be loaded into Gephi.
+In our project, bigram counts are the number of times two words co-occur in a window of some length. For the chapter dataset, a bigram is counted if two words within the same chapter are separated by, at most, 19 other words, while for the verse dataset, a bigram is counted if two words co-occur within the same verse. The resulting bigram counts are then organized and stored into comma-separated values (CSV) files to be loaded into Gephi. Filters are also used so that bigrams with frequency counts of less than a set number are excluded from the data to reduce clutter in our visualizations, as well as to avoid creating oversized files.
 
 Results of a successful project should include one or more useful network representations and topic models of the Lotus Sutra, as well as insights into the structural properties of the network, latent themes and topics present in the text, and standalone visualizations and summaries to facilitate interpretation and exploration of network analysis and topic modeling results. 
 
@@ -78,14 +78,17 @@ Lastly, topic 5 includes salient terms regarding large quantities (e.g., "thousa
 
 ### Network Analysis: Bigrams Counted Within 20 Words
 
-[![Network of bigram frequencies counted within 20 words](Images/chapters_network.jpeg)](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fraw.githubusercontent.com%2FXiongCynthia%2FLotusInsights%2Fmain%2FNetworks%2FChaptersBigrams.gexf&sa=r&ca=r&ec=o)
+[![Network of bigram frequencies counted within 20 words](Images/chapters_network.jpeg)](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fraw.githubusercontent.com%2FXiongCynthia%2FLotusInsights%2Fmain%2FNetworks%2FChaptersBigrams.gexf&sa=r&ca=r&ec=o&lt=10)
 
 For this network, we filtered all bigrams with counts of less than 1000. 
+
+This network is heavily focused on the most frequent lemmatized words, resulting in a condensed network. Every node has direct paths to at least one node with a high degree, with very few instances of connections between low-degree nodes. Given this dominance of frequent lemmas in this network, analyses based on it would likely reflect the most frequent words used in the text.
 
 
 ### Network Analysis: Bigrams Counted Within Verses
 
-[![Network of bigram frequencies counted within verses](Images/verses_network.jpeg)](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fraw.githubusercontent.com%2FXiongCynthia%2FLotusInsights%2Fmain%2FNetworks%2FVersesBigrams.gexf&sa=r&ca=r&ec=o)
+[![Network of bigram frequencies counted within verses](Images/verses_network.jpeg)](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fraw.githubusercontent.com%2FXiongCynthia%2FLotusInsights%2Fmain%2FNetworks%2FVersesBigrams.gexf&sa=r&ca=r&ec=o&lt=10)
 
 For this network, we filtered all bigrams with counts of less than 10. 
 
+Unlike previously, this network is much less condensed. In fact, there are nodes that are isolated from the main network, most of which are only connected with themselves. As a result, this network can be used to analyze more isolated patterns in the text.
