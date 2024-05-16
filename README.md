@@ -1,5 +1,7 @@
 # Insights of the Lotus: Unraveling the Lotus Sutra Through Topic Modeling and Network Analysis
 
+---
+
 ## Introduction
 
 The Lotus Sutra, one of the most influential Mahayana Buddhist scriptures, is revered for its profound teachings on universal enlightenment and the inherent potential for awakening within all beings. It held significance influence on East Asian culture and was translated and incorporated into East Asian Buddhist schools as the final teaching of the Buddha, most prominently so in Tiantai, a major school. This research project seeks to apply network analysis and topic modeling from Hendrik Kern's English translation of the text to derive insights.
@@ -10,6 +12,7 @@ On the other hand, network analysis has been utilized to explore relationships w
 
 Both topic modeling and network analysis have significantly contributed to the exploration and interpretation of textual data in digital humanities research. These computational methods have enabled researchers to uncover latent topics, visualize relationships, and gain valuable insights into the underlying themes and structures present in text collections, ultimately advancing the understanding of text in the digital humanities domain. By applying these methods on the Lotus Sutra, we may decipher the profound teachings and intricate narratives encapsulated within, thereby enriching our understanding of this seminal Buddhist scripture in the digital humanities domain.
 
+---
 
 ## Methods
 
@@ -33,6 +36,7 @@ All Python notebook code used to generate the data and visualizations can be fou
 
 All the generated data used can be found [here](/Data).
 
+---
 
 ## Model Results and Initial Observations
 
