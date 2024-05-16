@@ -31,10 +31,12 @@ Results of a successful project should include one or more useful network repres
 
 All Python notebook code used to generate the data and visualizations can be found [here](LotusInsights.ipynb).
 
+All the generated data used can be found [here](/Data).
+
 
 ## Model Results and Initial Observations
 
-**Click the images to interact with the visualization!*
+*__*Click the images to interact with the visualization!*__
 
 ### Topic Modeling: Chapters as Documents
 
