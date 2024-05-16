@@ -16,7 +16,7 @@ Both topic modeling and network analysis have significantly contributed to the e
 
 ## Methods
 
-Hendrik Kern's English translation of the Lotus Sutra text can be found at https://sacred-texts.com/bud/lotus/index.htm.
+Hendrik Kern's English translation of the Lotus Sutra text can be found at [https://sacred-texts.com/bud/lotus/index.htm](https://sacred-texts.com/bud/lotus/index.htm).
 
 The Lotus Sutra text is copied into a text file, from which the text can be extracted for preprocessing in Python. The text is first separated in two different ways: chapter and verse. That is, the first dataset contains text from each chapter, differentiated by chapter number, and the second dataset contains text from each verse, differentiated by chapter number and verse number. Stop words, punctuation, and special characters are removed, and each word is lowercased and lemmatized. 
 
