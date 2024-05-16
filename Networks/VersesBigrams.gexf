@@ -8,212 +8,212 @@
   <graph defaultedgetype="undirected" mode="static">
     <nodes>
       <node id="rai" label="rai">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1317.1685" y="430.17847"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="men" label="men">
-        <viz:size value="15.69697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-100.13417" y="-431.66104"/>
         <viz:color r="49" g="149" b="101"/>
       </node>
       <node id="shine" label="shine">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="7390.635" y="2626.0896"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="forth" label="forth">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1316.308" y="-8106.5654"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="singl" label="singl">
-        <viz:size value="11.212121"/>
+        <viz:size value="10.0"/>
         <viz:position x="506.2424" y="-739.7073"/>
         <viz:color r="191" g="229" b="221"/>
       </node>
       <node id="rain" label="rain">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-949.08105" y="172.17178"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="let" label="let">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-729.4538" y="103.46039"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="divin" label="divin">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="985.2762" y="-4017.1868"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="earth" label="earth">
-        <viz:size value="11.212121"/>
+        <viz:size value="10.0"/>
         <viz:position x="-48.21699" y="93.07965"/>
         <viz:color r="191" g="229" b="221"/>
       </node>
       <node id="differ" label="differ">
-        <viz:size value="10.848485"/>
+        <viz:size value="10.0"/>
         <viz:position x="130.4954" y="236.68895"/>
         <viz:color r="205" g="235" b="230"/>
       </node>
       <node id="assembl" label="assembl">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1267.7452" y="-599.86334"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="delight" label="delight">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-8056.8936" y="1404.87"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="field" label="field">
-        <viz:size value="11.69697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-574.4078" y="-1.9337189"/>
         <viz:color r="173" g="222" b="210"/>
       </node>
       <node id="wai" label="wai">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="2686.714" y="-7472.312"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="quarter" label="quarter">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-788.1047" y="-3.1136024"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="thousand" label="thousand">
-        <viz:size value="19.818182"/>
+        <viz:size value="10.0"/>
         <viz:position x="-99.83045" y="124.87155"/>
         <viz:color r="0" g="109" b="44"/>
       </node>
       <node id="buddha" label="buddha">
-        <viz:size value="21.39394"/>
+        <viz:size value="10.0"/>
         <viz:position x="-244.10788" y="-481.1509"/>
         <viz:color r="0" g="109" b="44"/>
       </node>
       <node id="appear" label="appear">
-        <viz:size value="11.212121"/>
+        <viz:size value="10.0"/>
         <viz:position x="-238.85251" y="65.29987"/>
         <viz:color r="191" g="229" b="221"/>
       </node>
       <node id="gold" label="gold">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-3490.6738" y="7303.342"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="far" label="far">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-191.2445" y="-1335.8479"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="hell" label="hell">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="7054.9224" y="3301.078"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="extrem" label="extrem">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-912.48944" y="-1114.6315"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="exist" label="exist">
-        <viz:size value="12.060606"/>
+        <viz:size value="10.0"/>
         <viz:position x="-438.28268" y="-420.3489"/>
         <viz:color r="159" g="217" b="201"/>
       </node>
       <node id="be" label="be">
-        <viz:size value="16.666668"/>
+        <viz:size value="10.0"/>
         <viz:position x="-154.27982" y="26.923"/>
         <viz:color r="24" g="129" b="72"/>
       </node>
       <node id="live" label="live">
-        <viz:size value="12.30303"/>
+        <viz:size value="10.0"/>
         <viz:position x="-376.22153" y="-238.1963"/>
         <viz:color r="150" g="213" b="195"/>
       </node>
       <node id="state" label="state">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-738.2058" y="-205.29059"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="born" label="born">
-        <viz:size value="10.969697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-457.87375" y="-297.15393"/>
         <viz:color r="200" g="233" b="227"/>
       </node>
       <node id="leav" label="leav">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-7270.0513" y="3673.8374"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="visibl" label="visibl">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="6951.5728" y="-4295.011"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="happi" label="happi">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="1340.1207" y="162.37184"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="low" label="low">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="433.7634" y="-162.63634"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="emin" label="emin">
-        <viz:size value="10.727273"/>
+        <viz:size value="10.0"/>
         <viz:position x="-506.30493" y="-54.694782"/>
         <viz:color r="209" g="237" b="233"/>
       </node>
       <node id="intermedi" label="intermedi">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="-663.3349" y="-964.7233"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="place" label="place">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="-527.9787" y="55.385773"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="king" label="king">
-        <viz:size value="10.727273"/>
+        <viz:size value="10.0"/>
         <viz:position x="-510.65265" y="-456.97964"/>
         <viz:color r="209" g="237" b="233"/>
       </node>
       <node id="reveal" label="reveal">
-        <viz:size value="11.454545"/>
+        <viz:size value="10.0"/>
         <viz:position x="-206.14966" y="-301.1837"/>
         <viz:color r="182" g="226" b="215"/>
       </node>
       <node id="show" label="show">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="-658.9175" y="-325.71207"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="law" label="law">
-        <viz:size value="30.0"/>
+        <viz:size value="10.0"/>
         <viz:position x="-597.2233" y="-262.78964"/>
         <viz:color r="0" g="109" b="44"/>
       </node>
       <node id="koti" label="koti">
-        <viz:size value="20.424242"/>
+        <viz:size value="10.0"/>
         <viz:position x="-222.50026" y="20.772556"/>
         <viz:color r="0" g="109" b="44"/>
       </node>
       <node id="creatur" label="creatur">
-        <viz:size value="11.575758"/>
+        <viz:size value="10.0"/>
         <viz:position x="-314.1552" y="-166.54253"/>
         <viz:color r="178" g="224" b="213"/>
       </node>
       <node id="voic" label="voic">
-        <viz:size value="11.818182"/>
+        <viz:size value="10.0"/>
         <viz:position x="-328.7766" y="-604.3497"/>
         <viz:color r="169" g="220" b="207"/>
       </node>
       <node id="lion" label="lion">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-4870.007" y="-6591.956"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
@@ -223,17 +223,17 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="sound" label="sound">
-        <viz:size value="10.727273"/>
+        <viz:size value="10.0"/>
         <viz:position x="-193.73024" y="-402.77914"/>
         <viz:color r="209" g="237" b="233"/>
       </node>
       <node id="sweet" label="sweet">
-        <viz:size value="10.727273"/>
+        <viz:size value="10.0"/>
         <viz:position x="2.526468" y="-507.2533"/>
         <viz:color r="209" g="237" b="233"/>
       </node>
       <node id="emit" label="emit">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-4818.4595" y="6543.292"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
@@ -243,32 +243,32 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="sublim" label="sublim">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1369.5457" y="-158.30153"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="wonder" label="wonder">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-589.0911" y="-837.1045"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="proclaim" label="proclaim">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-261.65747" y="-655.83826"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="mean" label="mean">
-        <viz:size value="10.848485"/>
+        <viz:size value="10.0"/>
         <viz:position x="-799.34656" y="-119.85994"/>
         <viz:color r="205" g="235" b="230"/>
       </node>
       <node id="myriad" label="myriad">
-        <viz:size value="11.818182"/>
+        <viz:size value="10.0"/>
         <viz:position x="-328.94727" y="29.573133"/>
         <viz:color r="169" g="220" b="207"/>
       </node>
       <node id="illustr" label="illustr">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="-819.1539" y="123.626816"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
@@ -278,162 +278,162 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="mind" label="mind">
-        <viz:size value="11.090909"/>
+        <viz:size value="10.0"/>
         <viz:position x="-228.71416" y="-68.42662"/>
         <viz:color r="196" g="231" b="224"/>
       </node>
       <node id="birth" label="birth">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-824.6714" y="-1169.5111"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="announc" label="announc">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-189.09831" y="-1240.9231"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="rest" label="rest">
-        <viz:size value="10.848485"/>
+        <viz:size value="10.0"/>
         <viz:position x="-425.33563" y="-940.0674"/>
         <viz:color r="205" g="235" b="230"/>
       </node>
       <node id="sai" label="sai">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="1306.7681" y="282.14078"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="end" label="end">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="7424.8877" y="-3458.5798"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="monk" label="monk">
-        <viz:size value="11.090909"/>
+        <viz:size value="10.0"/>
         <viz:position x="-929.95636" y="-205.19568"/>
         <viz:color r="196" g="231" b="224"/>
       </node>
       <node id="strength" label="strength">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="6290.3794" y="5082.149"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="acquir" label="acquir">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="7801.553" y="-2470.792"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="merit" label="merit">
-        <viz:size value="11.454545"/>
+        <viz:size value="10.0"/>
         <viz:position x="751.9967" y="-714.38403"/>
         <viz:color r="182" g="226" b="215"/>
       </node>
       <node id="virtu" label="virtu">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="613.61475" y="401.9875"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="vehicl" label="vehicl">
-        <viz:size value="11.575758"/>
+        <viz:size value="10.0"/>
         <viz:position x="-362.14258" y="-519.0153"/>
         <viz:color r="178" g="224" b="213"/>
       </node>
       <node id="rule" label="rule">
-        <viz:size value="10.727273"/>
+        <viz:size value="10.0"/>
         <viz:position x="-192.86371" y="-620.3355"/>
         <viz:color r="209" g="237" b="233"/>
       </node>
       <node id="pratyekabuddha" label="pratyekabuddha">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="2261.6003" y="7781.701"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="observ" label="observ">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="118.94938" y="-928.2294"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="son" label="son">
-        <viz:size value="12.545454"/>
+        <viz:size value="10.0"/>
         <viz:position x="106.72416" y="-141.3116"/>
         <viz:color r="141" g="209" b="189"/>
       </node>
       <node id="sugata" label="sugata">
-        <viz:size value="12.787879"/>
+        <viz:size value="10.0"/>
         <viz:position x="-209.95108" y="-223.19556"/>
         <viz:color r="132" g="206" b="183"/>
       </node>
       <node id="enlighten" label="enlighten">
-        <viz:size value="18.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-304.13834" y="-32.183372"/>
         <viz:color r="0" g="109" b="44"/>
       </node>
       <node id="knowledg" label="knowledg">
-        <viz:size value="13.757576"/>
+        <viz:size value="10.0"/>
         <viz:position x="-199.60585" y="-130.96588"/>
         <viz:color r="98" g="190" b="159"/>
       </node>
       <node id="superior" label="superior">
-        <viz:size value="11.69697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-258.4173" y="-265.76834"/>
         <viz:color r="173" g="222" b="210"/>
       </node>
       <node id="constantli" label="constantli">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="6598.109" y="-4805.574"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="accomplish" label="accomplish">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-443.4069" y="865.5412"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="task" label="task">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="344.14172" y="8083.012"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="hear" label="hear">
-        <viz:size value="13.757576"/>
+        <viz:size value="10.0"/>
         <viz:position x="168.16742" y="-402.26096"/>
         <viz:color r="98" g="190" b="159"/>
       </node>
       <node id="thing" label="thing">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="268.28088" y="-438.82562"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="bodhisattva" label="bodhisattva">
-        <viz:size value="20.181818"/>
+        <viz:size value="10.0"/>
         <viz:position x="-8.625303" y="291.86575"/>
         <viz:color r="0" g="109" b="44"/>
       </node>
       <node id="like" label="like">
-        <viz:size value="12.30303"/>
+        <viz:size value="10.0"/>
         <viz:position x="-171.67929" y="-36.404274"/>
         <viz:color r="150" g="213" b="195"/>
       </node>
       <node id="sand" label="sand">
-        <viz:size value="11.818182"/>
+        <viz:size value="10.0"/>
         <viz:position x="-298.77826" y="97.30003"/>
         <viz:color r="169" g="220" b="207"/>
       </node>
       <node id="gang" label="gang">
-        <viz:size value="12.424242"/>
+        <viz:size value="10.0"/>
         <viz:position x="-213.90215" y="156.97015"/>
         <viz:color r="146" g="211" b="192"/>
       </node>
       <node id="produc" label="produc">
-        <viz:size value="11.212121"/>
+        <viz:size value="10.0"/>
         <viz:position x="223.0373" y="-296.62045"/>
         <viz:color r="191" g="229" b="221"/>
       </node>
       <node id="power" label="power">
-        <viz:size value="11.575758"/>
+        <viz:size value="10.0"/>
         <viz:position x="27.589254" y="-30.68343"/>
         <viz:color r="178" g="224" b="213"/>
       </node>
       <node id="accord" label="accord">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="-921.43854" y="72.46988"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
@@ -453,12 +453,12 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="jewel" label="jewel">
-        <viz:size value="10.969697"/>
+        <viz:size value="10.0"/>
         <viz:position x="463.30475" y="334.53784"/>
         <viz:color r="200" g="233" b="227"/>
       </node>
       <node id="femal" label="femal">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-3663.536" y="-211.36992"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
@@ -468,17 +468,17 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="gift" label="gift">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-7927.8955" y="-2081.8474"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="heart" label="heart">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="7971.9126" y="-1778.393"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="develop" label="develop">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-8160.111" y="-530.02405"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
@@ -488,282 +488,282 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="excel" label="excel">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-957.28986" y="-373.43665"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="world" label="world">
-        <viz:size value="26.969698"/>
+        <viz:size value="10.0"/>
         <viz:position x="-399.33582" y="-127.34667"/>
         <viz:color r="0" g="109" b="44"/>
       </node>
       <node id="flower" label="flower">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="788.81366" y="-587.4599"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="preciou" label="preciou">
-        <viz:size value="10.969697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-310.70807" y="475.0724"/>
         <viz:color r="200" g="233" b="227"/>
       </node>
       <node id="substanc" label="substanc">
-        <viz:size value="10.727273"/>
+        <viz:size value="10.0"/>
         <viz:position x="-58.79642" y="695.45087"/>
         <viz:color r="209" g="237" b="233"/>
       </node>
       <node id="hand" label="hand">
-        <viz:size value="11.69697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-271.68628" y="290.8591"/>
         <viz:color r="173" g="222" b="210"/>
       </node>
       <node id="feet" label="feet">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="234.87584" y="539.5733"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="strive" label="strive">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="180.5226" y="-6.3478274"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="suprem" label="suprem">
-        <viz:size value="12.424242"/>
+        <viz:size value="10.0"/>
         <viz:position x="-44.210793" y="-127.26032"/>
         <viz:color r="146" g="211" b="192"/>
       </node>
       <node id="ey" label="ey">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="5506.7446" y="5534.0884"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="bodi" label="bodi">
-        <viz:size value="10.969697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-298.45767" y="220.58647"/>
         <viz:color r="200" g="233" b="227"/>
       </node>
       <node id="tathâgata" label="tathâgata">
-        <viz:size value="18.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="20.41735" y="328.74377"/>
         <viz:color r="0" g="109" b="44"/>
       </node>
       <node id="aspir" label="aspir">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="371.28943" y="-7903.4536"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="behold" label="behold">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1153.4434" y="246.45543"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="ask" label="ask">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1378.937" y="7603.625"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="sake" label="sake">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1407.8186" y="61.917843"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="robe" label="robe">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="1070.9486" y="830.0835"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="forest" label="forest">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-2030.4475" y="7693.8833"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="wisdom" label="wisdom">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-874.38275" y="204.27995"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="mountain" label="mountain">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="8129.807" y="-698.3937"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="medit" label="medit">
-        <viz:size value="11.575758"/>
+        <viz:size value="10.0"/>
         <viz:position x="-589.5983" y="147.68979"/>
         <viz:color r="178" g="224" b="213"/>
       </node>
       <node id="arriv" label="arriv">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-2563.153" y="7700.8384"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="self" label="self">
-        <viz:size value="10.727273"/>
+        <viz:size value="10.0"/>
         <viz:position x="-623.3879" y="-87.96621"/>
         <viz:color r="209" g="237" b="233"/>
       </node>
       <node id="clear" label="clear">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-5146.1943" y="6087.8813"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="sphere" label="sphere">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-6079.3228" y="5394.507"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="obtain" label="obtain">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-703.3946" y="-37.860035"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="transcend" label="transcend">
-        <viz:size value="10.727273"/>
+        <viz:size value="10.0"/>
         <viz:position x="-653.9641" y="441.0069"/>
         <viz:color r="209" g="237" b="233"/>
       </node>
       <node id="faculti" label="faculti">
-        <viz:size value="10.969697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-682.15045" y="297.20944"/>
         <viz:color r="200" g="233" b="227"/>
       </node>
       <node id="true" label="true">
-        <viz:size value="11.333333"/>
+        <viz:size value="10.0"/>
         <viz:position x="-312.33536" y="-93.86005"/>
         <viz:color r="187" g="228" b="218"/>
       </node>
       <node id="stand" label="stand">
-        <viz:size value="11.575758"/>
+        <viz:size value="10.0"/>
         <viz:position x="-282.24634" y="188.79115"/>
         <viz:color r="178" g="224" b="213"/>
       </node>
       <node id="join" label="join">
-        <viz:size value="11.333333"/>
+        <viz:size value="10.0"/>
         <viz:position x="-328.21817" y="384.45883"/>
         <viz:color r="187" g="228" b="218"/>
       </node>
       <node id="gina" label="gina">
-        <viz:size value="16.424242"/>
+        <viz:size value="10.0"/>
         <viz:position x="-332.7662" y="-202.59918"/>
         <viz:color r="30" g="134" b="80"/>
       </node>
       <node id="firm" label="firm">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-873.06213" y="7896.388"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="respect" label="respect">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-405.75226" y="959.1315"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="leader" label="leader">
-        <viz:size value="13.636364"/>
+        <viz:size value="10.0"/>
         <viz:position x="-35.74974" y="-319.98917"/>
         <viz:color r="101" g="193" b="163"/>
       </node>
       <node id="prais" label="prais">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1031.2864" y="-551.3505"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="joyfulli" label="joyfulli">
-        <viz:size value="10.848485"/>
+        <viz:size value="10.0"/>
         <viz:position x="852.664" y="-871.1144"/>
         <viz:color r="205" g="235" b="230"/>
       </node>
       <node id="stanza" label="stanza">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="804.61444" y="-818.3633"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="lead" label="lead">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-644.4841" y="-566.0099"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="thought" label="thought">
-        <viz:size value="10.848485"/>
+        <viz:size value="10.0"/>
         <viz:position x="-576.4137" y="-176.63939"/>
         <viz:color r="205" g="235" b="230"/>
       </node>
       <node id="master" label="master">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-975.6698" y="-290.5498"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="cours" label="cours">
-        <viz:size value="12.30303"/>
+        <viz:size value="10.0"/>
         <viz:position x="-99.62495" y="-287.19327"/>
         <viz:color r="150" g="213" b="195"/>
       </node>
       <node id="duti" label="duti">
-        <viz:size value="10.969697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-406.89786" y="-204.9083"/>
         <viz:color r="200" g="233" b="227"/>
       </node>
       <node id="highest" label="highest">
-        <viz:size value="11.575758"/>
+        <viz:size value="10.0"/>
         <viz:position x="-61.941547" y="-221.02374"/>
         <viz:color r="178" g="224" b="213"/>
       </node>
       <node id="memori" label="memori">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="993.2103" y="-240.72252"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="complet" label="complet">
-        <viz:size value="11.69697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-165.91113" y="-181.82217"/>
         <viz:color r="173" g="222" b="210"/>
       </node>
       <node id="preach" label="preach">
-        <viz:size value="11.939394"/>
+        <viz:size value="10.0"/>
         <viz:position x="64.75099" y="-91.427795"/>
         <viz:color r="164" g="218" b="204"/>
       </node>
       <node id="reason" label="reason">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1247.113" y="57.152687"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="rous" label="rous">
-        <viz:size value="10.727273"/>
+        <viz:size value="10.0"/>
         <viz:position x="-440.40936" y="148.68358"/>
         <viz:color r="209" g="237" b="233"/>
       </node>
       <node id="drum" label="drum">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1504.8975" y="-243.30356"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="evil" label="evil">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-102.161354" y="7816.2603"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="command" label="command">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-697.56665" y="-667.9089"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="conduct" label="conduct">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="699.3803" y="-8175.164"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="god" label="god">
-        <viz:size value="12.787879"/>
+        <viz:size value="10.0"/>
         <viz:position x="-62.983116" y="-558.63104"/>
         <viz:color r="132" g="206" b="183"/>
       </node>
       <node id="honour" label="honour">
-        <viz:size value="11.69697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-68.10097" y="-62.425186"/>
         <viz:color r="173" g="222" b="210"/>
       </node>
       <node id="goblin" label="goblin">
-        <viz:size value="10.727273"/>
+        <viz:size value="10.0"/>
         <viz:position x="156.90712" y="-1210.1013"/>
         <viz:color r="209" g="237" b="233"/>
       </node>
@@ -773,57 +773,57 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="save" label="save">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-2605.2212" y="-7799.267"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="walk" label="walk">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-6848.509" y="3958.334"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="keep" label="keep">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="700.67377" y="-795.7771"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="moral" label="moral">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-7268.967" y="3065.2512"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="forbear" label="forbear">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="7427.2705" y="-2904.7532"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="try" label="try">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="741.0859" y="-265.9691"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="attain" label="attain">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-927.6416" y="-2.83493"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="have" label="have">
-        <viz:size value="11.818182"/>
+        <viz:size value="10.0"/>
         <viz:position x="2.5044358" y="61.114372"/>
         <viz:color r="169" g="220" b="207"/>
       </node>
       <node id="pleasur" label="pleasur">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="8072.2314" y="884.9246"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="attent" label="attent">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-4344.657" y="6538.022"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="year" label="year">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="1316.2224" y="-6.5188494"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
@@ -833,17 +833,17 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="presenc" label="presenc">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="7492.504" y="3097.6667"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="discipl" label="discipl">
-        <viz:size value="11.939394"/>
+        <viz:size value="10.0"/>
         <viz:position x="-434.7749" y="-89.48333"/>
         <viz:color r="164" g="218" b="204"/>
       </node>
       <node id="food" label="food">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="1314.8235" y="7867.5425"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
@@ -858,27 +858,27 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="hundr" label="hundr">
-        <viz:size value="10.969697"/>
+        <viz:size value="10.0"/>
         <viz:position x="18.7939" y="-170.60655"/>
         <viz:color r="200" g="233" b="227"/>
       </node>
       <node id="cloth" label="cloth">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="1222.4307" y="8011.538"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="numer" label="numer">
-        <viz:size value="10.848485"/>
+        <viz:size value="10.0"/>
         <viz:position x="-258.81985" y="351.05646"/>
         <viz:color r="205" g="235" b="230"/>
       </node>
       <node id="monasteri" label="monasteri">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-6461.9717" y="-5058.9497"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="caus" label="caus">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="7996.891" y="1486.1099"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
@@ -888,82 +888,82 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="wood" label="wood">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="7849.1113" y="2112.586"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="love" label="love">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-829.20654" y="-874.5877"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="fruit" label="fruit">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="7174.9985" y="3795.3853"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="beauti" label="beauti">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="5585.1724" y="5405.3906"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="feel" label="feel">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="16.879969" y="-765.9334"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="order" label="order">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1327.3291" y="-443.96143"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="reach" label="reach">
-        <viz:size value="12.181818"/>
+        <viz:size value="10.0"/>
         <viz:position x="13.200675" y="-256.73563"/>
         <viz:color r="155" g="215" b="198"/>
       </node>
       <node id="scienc" label="scienc">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-173.87544" y="662.85"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="understand" label="understand">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-688.3429" y="-906.17804"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="avoid" label="avoid">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="6757.0537" y="4020.44"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="displai" label="displai">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="5319.8438" y="-6193.4204"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="worship" label="worship">
-        <viz:size value="11.575758"/>
+        <viz:size value="10.0"/>
         <viz:position x="243.0654" y="-367.06046"/>
         <viz:color r="178" g="224" b="213"/>
       </node>
       <node id="relic" label="relic">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="1035.1013" y="-511.79663"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="stûpa" label="stûpa">
-        <viz:size value="10.969697"/>
+        <viz:size value="10.0"/>
         <viz:position x="173.20955" y="99.13591"/>
         <viz:color r="200" g="233" b="227"/>
       </node>
       <node id="measur" label="measur">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="3828.7903" y="7147.547"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="heard" label="heard">
-        <viz:size value="11.090909"/>
+        <viz:size value="10.0"/>
         <viz:position x="-267.6042" y="-371.19174"/>
         <viz:color r="196" g="231" b="224"/>
       </node>
@@ -978,172 +978,172 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="direct" label="direct">
-        <viz:size value="10.969697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-385.82697" y="252.39598"/>
         <viz:color r="200" g="233" b="227"/>
       </node>
       <node id="space" label="space">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="-747.94763" y="234.16385"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="tree" label="tree">
-        <viz:size value="11.454545"/>
+        <viz:size value="10.0"/>
         <viz:position x="-135.15999" y="447.7794"/>
         <viz:color r="182" g="226" b="215"/>
       </node>
       <node id="blossom" label="blossom">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-537.04834" y="634.36163"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="cover" label="cover">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-5988.322" y="-5602.386"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="see" label="see">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="94.34889" y="-406.6652"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="sign" label="sign">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="367.0079" y="-1160.1797"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="great" label="great">
-        <viz:size value="14.848485"/>
+        <viz:size value="10.0"/>
         <viz:position x="76.56029" y="-291.50806"/>
         <viz:color r="70" g="167" b="127"/>
       </node>
       <node id="know" label="know">
-        <viz:size value="11.090909"/>
+        <viz:size value="10.0"/>
         <viz:position x="-203.14534" y="-529.5027"/>
         <viz:color r="196" g="231" b="224"/>
       </node>
       <node id="explain" label="explain">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1167.4747" y="-810.38745"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="matter" label="matter">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="4064.3953" y="6707.118"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="congreg" label="congreg">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1233.5785" y="-749.6348"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="hero" label="hero">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="169.59975" y="-614.39795"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="doubt" label="doubt">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-10.384299" y="-1371.8668"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="light" label="light">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="440.75766" y="-92.59118"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="holi" label="holi">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-376.29233" y="-815.38086"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="lord" label="lord">
-        <viz:size value="19.575756"/>
+        <viz:size value="10.0"/>
         <viz:position x="34.594982" y="257.56656"/>
         <viz:color r="0" g="109" b="44"/>
       </node>
       <node id="futur" label="futur">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="-562.1324" y="-410.07285"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="terrac" label="terrac">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-726.43726" y="685.3973"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="infinit" label="infinit">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1360.7965" y="-375.12216"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="sight" label="sight">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-550.039" y="404.9588"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="past" label="past">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="550.7181" y="780.42236"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="period" label="period">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="648.4059" y="-923.13367"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="inconceiv" label="inconceiv">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-36.35085" y="534.0392"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="kalpa" label="kalpa">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="-597.9213" y="-1000.74384"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="number" label="number">
-        <viz:size value="11.575758"/>
+        <viz:size value="10.0"/>
         <viz:position x="-145.014" y="205.7345"/>
         <viz:color r="178" g="224" b="213"/>
       </node>
       <node id="educ" label="educ">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-268.2045" y="631.2464"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="princ" label="princ">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="863.1042" y="-87.817764"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="life" label="life">
-        <viz:size value="11.212121"/>
+        <viz:size value="10.0"/>
         <viz:position x="-14.153702" y="-421.0251"/>
         <viz:color r="191" g="229" b="221"/>
       </node>
       <node id="sage" label="sage">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="815.82166" y="-423.44846"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="sûtra" label="sûtra">
-        <viz:size value="15.575758"/>
+        <viz:size value="10.0"/>
         <viz:position x="132.5406" y="-332.2671"/>
         <viz:color r="52" g="152" b="105"/>
       </node>
       <node id="call" label="call">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-543.2392" y="-632.0094"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="deliv" label="deliv">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-947.03375" y="-447.97247"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="enter" label="enter">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="4693.339" y="6270.6997"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
@@ -1153,17 +1153,17 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="seat" label="seat">
-        <viz:size value="11.212121"/>
+        <viz:size value="10.0"/>
         <viz:position x="-76.875725" y="629.78735"/>
         <viz:color r="191" g="229" b="221"/>
       </node>
       <node id="seer" label="seer">
-        <viz:size value="10.727273"/>
+        <viz:size value="10.0"/>
         <viz:position x="-289.9488" y="-558.3242"/>
         <viz:color r="209" g="237" b="233"/>
       </node>
       <node id="continu" label="continu">
-        <viz:size value="10.727273"/>
+        <viz:size value="10.0"/>
         <viz:position x="-475.75473" y="-245.182"/>
         <viz:color r="209" g="237" b="233"/>
       </node>
@@ -1173,52 +1173,52 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="chief" label="chief">
-        <viz:size value="11.454545"/>
+        <viz:size value="10.0"/>
         <viz:position x="-109.71268" y="-258.62198"/>
         <viz:color r="182" g="226" b="215"/>
       </node>
       <node id="manifest" label="manifest">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-643.5652" y="-787.4686"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="nâga" label="nâga">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="278.1673" y="-1296.0269"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="occupi" label="occupi">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="7874.782" y="-247.96275"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="count" label="count">
-        <viz:size value="10.848485"/>
+        <viz:size value="10.0"/>
         <viz:position x="201.06464" y="383.0875"/>
         <viz:color r="205" g="235" b="230"/>
       </node>
       <node id="wise" label="wise">
-        <viz:size value="10.848485"/>
+        <viz:size value="10.0"/>
         <viz:position x="128.53122" y="-56.239838"/>
         <viz:color r="205" g="235" b="230"/>
       </node>
       <node id="give" label="give">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="638.7191" y="133.03177"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="seen" label="seen">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="3574.7305" y="-7366.2305"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="point" label="point">
-        <viz:size value="10.727273"/>
+        <viz:size value="10.0"/>
         <viz:position x="-573.87634" y="214.44019"/>
         <viz:color r="209" g="237" b="233"/>
       </node>
       <node id="mighti" label="mighti">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="-594.4349" y="-510.25018"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
@@ -1228,12 +1228,12 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="preacher" label="preacher">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1444.196" y="-503.237"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="weal" label="weal">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1004.17847" y="-102.706825"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
@@ -1243,67 +1243,67 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="lai" label="lai">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-3114.047" y="-239.45805"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="fulli" label="fulli">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-115.002426" y="-510.95898"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="kept" label="kept">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="206.75249" y="286.416"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="sit" label="sit">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="51.596527" y="1418.7146"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="dai" label="dai">
-        <viz:size value="10.969697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-510.83948" y="177.1193"/>
         <viz:color r="200" g="233" b="227"/>
       </node>
       <node id="includ" label="includ">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-72.3733" y="-736.71436"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="follow" label="follow">
-        <viz:size value="11.212121"/>
+        <viz:size value="10.0"/>
         <viz:position x="103.33956" y="34.340683"/>
         <viz:color r="191" g="229" b="221"/>
       </node>
       <node id="time" label="time">
-        <viz:size value="14.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-138.13824" y="-94.173904"/>
         <viz:color r="86" g="180" b="145"/>
       </node>
       <node id="natur" label="natur">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1024.8877" y="-34.839584"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="nirvâna" label="nirvâna">
-        <viz:size value="10.848485"/>
+        <viz:size value="10.0"/>
         <viz:position x="-579.44446" y="-357.45154"/>
         <viz:color r="205" g="235" b="230"/>
       </node>
       <node id="middl" label="middl">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="3119.8818" y="7180.738"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="æon" label="æon">
-        <viz:size value="13.515152"/>
+        <viz:size value="10.0"/>
         <viz:position x="4.9773374" y="16.92763"/>
         <viz:color r="105" g="195" b="166"/>
       </node>
       <node id="rare" label="rare">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="-828.09033" y="501.24216"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
@@ -1313,92 +1313,92 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="near" label="near">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="5812.8755" y="-5751.432"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="said" label="said">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="2934.6956" y="7557.5054"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="faultless" label="faultless">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-857.3972" y="-528.049"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="extinct" label="extinct">
-        <viz:size value="12.30303"/>
+        <viz:size value="10.0"/>
         <viz:position x="-98.1436" y="-4.745882"/>
         <viz:color r="150" g="213" b="195"/>
       </node>
       <node id="nun" label="nun">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-2294.1428" y="-201.87796"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="expound" label="expound">
-        <viz:size value="10.969697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-300.62158" y="-336.11752"/>
         <viz:color r="200" g="233" b="227"/>
       </node>
       <node id="brought" label="brought">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-536.743" y="520.3809"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="success" label="success">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="386.82922" y="432.27716"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="teach" label="teach">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1020.99445" y="-336.30786"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="known" label="known">
-        <viz:size value="10.727273"/>
+        <viz:size value="10.0"/>
         <viz:position x="-183.87411" y="509.35654"/>
         <viz:color r="209" g="237" b="233"/>
       </node>
       <node id="good" label="good">
-        <viz:size value="12.181818"/>
+        <viz:size value="10.0"/>
         <viz:position x="190.93497" y="-212.81825"/>
         <viz:color r="155" g="215" b="198"/>
       </node>
       <node id="went" label="went">
-        <viz:size value="10.969697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-77.2702" y="479.7298"/>
         <viz:color r="200" g="233" b="227"/>
       </node>
       <node id="present" label="present">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-5611.1" y="5903.051"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="famili" label="famili">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="887.4047" y="-297.7623"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="kind" label="kind">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="2894.554" y="-7695.9463"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="truth" label="truth">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-755.1934" y="-496.43488"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="skil" label="skil">
-        <viz:size value="10.848485"/>
+        <viz:size value="10.0"/>
         <viz:position x="-439.30753" y="-487.21194"/>
         <viz:color r="205" g="235" b="230"/>
       </node>
       <node id="declar" label="declar">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1039.8978" y="-155.53062"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
@@ -1408,22 +1408,22 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="go" label="go">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-282.8461" y="-931.4912"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="speak" label="speak">
-        <viz:size value="11.090909"/>
+        <viz:size value="10.0"/>
         <viz:position x="-337.86392" y="-426.33917"/>
         <viz:color r="196" g="231" b="224"/>
       </node>
       <node id="refresh" label="refresh">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1035.6965" y="-237.82816"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="endless" label="endless">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-337.12717" y="599.6507"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
@@ -1433,87 +1433,87 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="children" label="children">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-5430.855" y="-6122.816"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="emancip" label="emancip">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="801.3213" y="166.7072"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="properti" label="properti">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="1258.096" y="218.23344"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="difficult" label="difficult">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="234.79037" y="-121.266685"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="abl" label="abl">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="371.59836" y="41.813717"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="bodili" label="bodili">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-830.655" y="-619.75977"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="receiv" label="receiv">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-7685.592" y="-2884.5955"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="stage" label="stage">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1436.3346" y="7995.644"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="immens" label="immens">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="272.17282" y="-726.04504"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="free" label="free">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="-407.56976" y="-739.95166"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="real" label="real">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1225.5496" y="-129.27968"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="long" label="long">
-        <viz:size value="10.969697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-386.25867" y="-380.89322"/>
         <viz:color r="200" g="233" b="227"/>
       </node>
       <node id="mysteri" label="mysteri">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-596.5838" y="-1191.62"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="word" label="word">
-        <viz:size value="11.333333"/>
+        <viz:size value="10.0"/>
         <viz:position x="-168.64517" y="-340.77713"/>
         <viz:color r="187" g="228" b="218"/>
       </node>
       <node id="look" label="look">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="6737.581" y="4513.7783"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="perfect" label="perfect">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="592.8561" y="481.22336"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="final" label="final">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-622.3826" y="-1705.1082"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
@@ -1523,97 +1523,97 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="think" label="think">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="339.24973" y="152.54549"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="believ" label="believ">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1368.3704" y="-719.64655"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="high" label="high">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-193.50462" y="-771.5646"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="matur" label="matur">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-618.891" y="719.5252"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="equal" label="equal">
-        <viz:size value="10.727273"/>
+        <viz:size value="10.0"/>
         <viz:position x="-488.85703" y="261.95462"/>
         <viz:color r="209" g="237" b="233"/>
       </node>
       <node id="devote" label="devote">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-3114.531" y="-172.07315"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="train" label="train">
-        <viz:size value="10.969697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-124.24942" y="376.9698"/>
         <viz:color r="200" g="233" b="227"/>
       </node>
       <node id="awai" label="awai">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="2063.5034" y="-7908.8467"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="pure" label="pure">
-        <viz:size value="10.848485"/>
+        <viz:size value="10.0"/>
         <viz:position x="-519.3887" y="-140.77306"/>
         <viz:color r="205" g="235" b="230"/>
       </node>
       <node id="man" label="man">
-        <viz:size value="13.515152"/>
+        <viz:size value="10.0"/>
         <viz:position x="564.73" y="-4.255928"/>
         <viz:color r="105" g="195" b="166"/>
       </node>
       <node id="disposit" label="disposit">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="305.17593" y="-37.27597"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="argument" label="argument">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1364.243" y="-2.6729517"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="manifold" label="manifold">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1940.2983" y="-7916.7427"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="ignor" label="ignor">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-466.91885" y="-1290.9392"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="come" label="come">
-        <viz:size value="10.969697"/>
+        <viz:size value="10.0"/>
         <viz:position x="-97.97542" y="-370.7654"/>
         <viz:color r="200" g="233" b="227"/>
       </node>
       <node id="right" label="right">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="319.05356" y="313.65082"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="perceiv" label="perceiv">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="9.910579" y="-1470.0533"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="moment" label="moment">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="593.7351" y="-651.5986"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="devic" label="devic">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1370.937" y="-549.611"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
@@ -1623,37 +1623,37 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="form" label="form">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="6993.478" y="-3770.5974"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="benevol" label="benevol">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-3291.922" y="-7518.0117"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="listen" label="listen">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-6353.259" y="4695.6167"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="second" label="second">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-759.1142" y="-718.20544"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="establish" label="establish">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="327.80762" y="-209.69844"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="thirti" label="thirti">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="774.91547" y="-1759.0004"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="characterist" label="characterist">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="694.1176" y="-1807.0516"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
@@ -1668,57 +1668,57 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="blind" label="blind">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="4553.259" y="6708.501"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="peopl" label="peopl">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-420.36615" y="8101.7144"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="possess" label="possess">
-        <viz:size value="10.727273"/>
+        <viz:size value="10.0"/>
         <viz:position x="-156.64194" y="258.9186"/>
         <viz:color r="209" g="237" b="233"/>
       </node>
       <node id="ripe" label="ripe">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-408.8139" y="564.34106"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="perform" label="perform">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="8142.816" y="164.6768"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="sort" label="sort">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-6928.2666" y="-4404.06"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="imag" label="imag">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="70.03288" y="666.29584"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="salut" label="salut">
-        <viz:size value="11.212121"/>
+        <viz:size value="10.0"/>
         <viz:position x="-205.0364" y="415.76816"/>
         <viz:color r="191" g="229" b="221"/>
       </node>
       <node id="head" label="head">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="5207.17" y="6209.448"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="homag" label="homag">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-36.862305" y="-995.7443"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="imperfect" label="imperfect">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-413.97238" y="-1154.896"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
@@ -1728,7 +1728,7 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="bless" label="bless">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="-487.5517" y="-772.2213"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
@@ -1743,27 +1743,27 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="seek" label="seek">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-301.27533" y="-1277.1256"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="pain" label="pain">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="6197.125" y="-5250.3394"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="view" label="view">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1657.5432" y="-573.9903"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="compass" label="compass">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="572.60284" y="-511.83347"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="foot" label="foot">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="0.46223083" y="772.6605"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
@@ -1773,7 +1773,7 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="brahma" label="brahma">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-727.20514" y="899.41864"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
@@ -1788,22 +1788,22 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="dread" label="dread">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="2187.24" y="359.47"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="wheel" label="wheel">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1453.2664" y="-305.9947"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="arhat" label="arhat">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1319.372" y="-781.83405"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="face" label="face">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="917.7458" y="-733.4311"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
@@ -1818,7 +1818,7 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="accept" label="accept">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="1190.9576" y="-1074.1669"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
@@ -1828,7 +1828,7 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="rank" label="rank">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="5799.6016" y="5652.043"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
@@ -1838,32 +1838,32 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="void" label="void">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1352.8936" y="-296.1168"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="rich" label="rich">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="715.5191" y="267.89923"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="counterfeit" label="counterfeit">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-883.1999" y="-1492.262"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="predict" label="predict">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-3988.8503" y="-7172.017"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="hous" label="hous">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="1550.1986" y="217.15044"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="abod" label="abod">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-7333.842" y="-3692.4397"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
@@ -1878,27 +1878,27 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="mass" label="mass">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="1699.52" y="-1206.1652"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="young" label="young">
-        <viz:size value="10.727273"/>
+        <viz:size value="10.0"/>
         <viz:position x="520.8752" y="-310.14053"/>
         <viz:color r="209" g="237" b="233"/>
       </node>
       <node id="father" label="father">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="1322.4657" y="-84.80812"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="throne" label="throne">
-        <viz:size value="10.969697"/>
+        <viz:size value="10.0"/>
         <viz:position x="23.20755" y="617.6202"/>
         <viz:color r="200" g="233" b="227"/>
       </node>
       <node id="person" label="person">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1294.8376" y="-517.4912"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
@@ -1908,7 +1908,7 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="tripl" label="tripl">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1022.4381" y="443.18893"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
@@ -1918,47 +1918,47 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="exalt" label="exalt">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="894.3255" y="-576.6584"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="practis" label="practis">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-796.115" y="-8154.88"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="scorn" label="scorn">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-246.40883" y="-8198.299"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="smell" label="smell">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="368.44104" y="-2525.7969"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="servant" label="servant">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="6300.3066" y="4548.5176"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="plant" label="plant">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-505.06088" y="-871.7879"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="friend" label="friend">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-8072.5737" y="-1287.4071"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="work" label="work">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="1436.3718" y="-8069.948"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="koli" label="koli">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="146.28162" y="638.69104"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
@@ -1973,17 +1973,17 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="path" label="path">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="502.6782" y="166.55334"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="cloud" label="cloud">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="-765.12933" y="529.7051"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="water" label="water">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1202.9915" y="1170.0648"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
@@ -1998,17 +1998,17 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="forward" label="forward">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1488.4559" y="-366.6854"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="magic" label="magic">
-        <viz:size value="10.848485"/>
+        <viz:size value="10.0"/>
         <viz:position x="-372.98682" y="309.76862"/>
         <viz:color r="205" g="235" b="230"/>
       </node>
       <node id="endow" label="endow">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-817.3739" y="819.1426"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
@@ -2028,12 +2028,12 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="qualiti" label="qualiti">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="685.05994" y="-403.58047"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="odour" label="odour">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="-6789.37" y="4502.115"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
@@ -2043,7 +2043,7 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="calcul" label="calcul">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="304.62445" y="507.52066"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
@@ -2053,12 +2053,12 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="dust" label="dust">
-        <viz:size value="10.121212"/>
+        <viz:size value="10.0"/>
         <viz:position x="2413.6028" y="-1592.225"/>
         <viz:color r="232" g="246" b="248"/>
       </node>
       <node id="car" label="car">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="-1072.04" y="-999.86005"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
@@ -2073,27 +2073,27 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="demon" label="demon">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="208.54738" y="-1334.1399"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="river" label="river">
-        <viz:size value="10.969697"/>
+        <viz:size value="10.0"/>
         <viz:position x="84.656555" y="364.2027"/>
         <viz:color r="200" g="233" b="227"/>
       </node>
       <node id="angel" label="angel">
-        <viz:size value="10.484848"/>
+        <viz:size value="10.0"/>
         <viz:position x="-416.7382" y="696.8057"/>
         <viz:color r="218" g="240" b="239"/>
       </node>
       <node id="celebr" label="celebr">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="307.2404" y="467.11395"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="littl" label="littl">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="136.7555" y="846.8665"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
@@ -2133,87 +2133,87 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="mahâsattva" label="mahâsattva">
-        <viz:size value="11.939394"/>
+        <viz:size value="10.0"/>
         <viz:position x="-32.329433" y="408.49097"/>
         <viz:color r="164" g="218" b="204"/>
       </node>
       <node id="sâkyamuni" label="sâkyamuni">
-        <viz:size value="11.818182"/>
+        <viz:size value="10.0"/>
         <viz:position x="8.884225" y="444.08206"/>
         <viz:color r="169" g="220" b="207"/>
       </node>
       <node id="isol" label="isol">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="206.41655" y="828.61774"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="compar" label="compar">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="394.33252" y="696.51764"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="occult" label="occult">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="447.19165" y="605.1295"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="emerg" label="emerg">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="142.71663" y="544.9661"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="gap" label="gap">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="261.52838" y="796.2991"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="saha" label="saha">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="445.8312" y="558.7592"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="stood" label="stood">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="324.88074" y="764.2881"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="sky" label="sky">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="290.3221" y="680.92334"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="prabhûtaratna" label="prabhûtaratna">
-        <viz:size value="10.606061"/>
+        <viz:size value="10.0"/>
         <viz:position x="68.83985" y="581.3452"/>
         <viz:color r="214" g="238" b="236"/>
       </node>
       <node id="thereon" label="thereon">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="203.43399" y="732.12604"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="circumambul" label="circumambul">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="44.273315" y="814.94055"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="left" label="left">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="226.81429" y="602.26526"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="hymn" label="hymn">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="361.43304" y="641.5474"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="distanc" label="distanc">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="159.61763" y="782.51794"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="stretch" label="stretch">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="346.1975" y="728.9003"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
@@ -2228,7 +2228,7 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="agita" label="agita">
-        <viz:size value="10.848485"/>
+        <viz:size value="10.0"/>
         <viz:position x="918.56635" y="-974.14545"/>
         <viz:color r="205" g="235" b="230"/>
       </node>
@@ -2243,17 +2243,17 @@
         <viz:color r="237" g="248" b="251"/>
       </node>
       <node id="tradit" label="tradit">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="741.4179" y="-887.8013"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
       <node id="organ" label="organ">
-        <viz:size value="10.363636"/>
+        <viz:size value="10.0"/>
         <viz:position x="699.5145" y="-3367.0762"/>
         <viz:color r="223" g="242" b="242"/>
       </node>
       <node id="avalokitesvara" label="avalokitesvara">
-        <viz:size value="10.242424"/>
+        <viz:size value="10.0"/>
         <viz:position x="1014.3891" y="568.3892"/>
         <viz:color r="227" g="244" b="245"/>
       </node>
