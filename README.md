@@ -32,9 +32,9 @@ In our project, bigram counts are the number of times two words co-occur in a wi
 
 Results of a successful project should include one or more useful network representations and topic models of the Lotus Sutra, as well as insights into the structural properties of the network, latent themes and topics present in the text, and standalone visualizations and summaries to facilitate interpretation and exploration of network analysis and topic modeling results. 
 
-All Python notebook code used to generate the data and visualizations can be found [here](LotusInsights.ipynb).
+All Python notebook code used to generate the data and visualizations can be found [here](https://github.com/XiongCynthia/LotusInsights/blob/main/LotusInsights.ipynb).
 
-All the generated data used can be found [here](/Data).
+All the generated data used can be found [here](https://github.com/XiongCynthia/LotusInsights/tree/main/Data).
 
 ---
 
